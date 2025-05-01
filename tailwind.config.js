@@ -30,7 +30,9 @@ module.exports = {
         crossColor: "#B3B3B3",
         cartBorder: "#F0F0F0",
         inactiveTab: "#A5A7B9",
-        verticalDivider: "#CACCDA"
+        verticalDivider: "#CACCDA",
+        completedColor: "#059C6A",
+        deleteColor: "#E04444"
       },
       fontFamily: {
         "Sen-Regular": ["Sen-Regular"],

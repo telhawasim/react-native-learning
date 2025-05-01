@@ -26,7 +26,7 @@ const OngoingRow = () => {
           </View>
         </View>
       </View>
-      <View className="flex-row flex-1 gap-[30]">
+      <View className="flex-row flex-1 gap-[30] mt-[8]">
         <View className="flex-1">
           <AppButton title="Track Order" height={48} onPress={() => {}} />
         </View>
